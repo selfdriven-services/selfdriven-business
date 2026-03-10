@@ -23,7 +23,7 @@ It is a **civilisational transition**.
 
 The **Quiet Life Initiative**, developed by **selfdriven.foundation**, is designed to support individuals whose jobs have been **permanently displaced by artificial intelligence**.
 
-Rather than attempting to retrain every displaced worker into another fragile job category, the program helps participants **build a life architecture that is not dependent on traditional employment busyness.**
+Rather than attempting to retrain every displaced worker into another fragile job category, the program helps participants **build a life that is not dependent on traditional employment busyness.**
 
 The goal is not merely job replacement.
 
