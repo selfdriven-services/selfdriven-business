@@ -7,10 +7,6 @@ permalink: /initiatives/the-quiet-life
 ## The Quiet Life Initiative
 ### Helping People Self-Actuate Beyond “Work Busyness”
 
----
-
-## Overview
-
 Technological progress—particularly artificial intelligence and automation—continues to reduce the amount of human labour required for economic production. While this transition may increase societal productivity, it also creates a profound challenge: many individuals derive identity, social belonging, and financial stability from traditional employment structures.
 
 When employment disappears, people often experience not only financial stress but also psychological disorientation. The cultural signal of “being busy at work” has long been associated with usefulness, dignity, and contribution.
@@ -23,7 +19,7 @@ Business busyness may disappear.
 
 Human purpose does not.
 
-## Program Philosophy
+## Philosophy
 
 The Quiet Life Initiative is built on several core principles.
 
@@ -66,7 +62,7 @@ Many individuals have never been taught how to:
 
 Self-actuation is therefore treated as a practical capability that can be learned and practiced.
 
-## Program Structure
+## Structure
 
 The Quiet Life Initiative operates through four phases.
 
