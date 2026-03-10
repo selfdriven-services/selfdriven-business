@@ -90,7 +90,7 @@ This perception can lead to anxiety, depression, and withdrawal from society.
 
 The Quiet Life Initiative addresses these issues directly.
 
-## Program Philosophy
+## Philosophy
 
 The initiative is built on several principles.
 
@@ -246,4 +246,4 @@ the ability to **self-actuate a meaningful life.**
 
 ---
 
-*Life Must Be Designed, Not Assigned*
+*A life designed, not assigned.*
