@@ -7,18 +7,14 @@ title: The busy-ness has gone - selfdriven.business
 
 ---
 
-## Abstract
-
 For centuries, business has been structured around *busy-ness*: the visible activity of people exchanging labour for value. Meetings, emails, logistics, paperwork, management layers, and administrative processes formed the operational heartbeat of organisations. Activity itself became a proxy for productivity.
 
 However, the emergence of artificial intelligence, autonomous systems, and identity-driven digital infrastructure is quietly dissolving much of this activity. The machinery of coordination — once the dominant cost of organisations — is increasingly handled by software.
 
-This paper introduces **selfdriven.business**, a model for organisations operating in an environment where the traditional signals of business activity have largely disappeared. In such systems, value creation remains, but the *noise of coordination* fades away.
+This paper introduces selfdriven.business, a model for organisations operating in an environment where the traditional signals of business activity have largely disappeared. In such systems, value creation remains, but the *noise of coordination* fades away.
 
 Business does not stop.  
 It simply becomes quiet.
-
----
 
 ## 1. The Age of Busy-ness
 
@@ -46,8 +42,6 @@ The result was a world where **activity was mistaken for value**.
 
 If people were busy, the system appeared healthy.
 
----
-
 ## 2. The Quieting of Business
 
 Artificial intelligence and autonomous software systems dramatically reduce the cost of coordination.
@@ -70,8 +64,6 @@ The result is a new phenomenon:
 Processes still occur, but they no longer require visible human effort.
 
 Where organisations once sounded like busy offices, they increasingly resemble quiet control rooms.
-
----
 
 ## 3. From Organisation to System
 
@@ -99,8 +91,6 @@ People remain important, but they operate at different layers:
 The system performs the routine work.
 
 Humans focus on meaning, direction, and stewardship.
-
----
 
 ## 4. Identity as the Operating Layer
 
@@ -131,8 +121,6 @@ credential → verification → automated execution
 
 Entire workflows collapse into simple machine-verifiable steps.
 
----
-
 ## 5. The Disappearance of Administrative Gravity
 
 Most organisations today carry enormous **administrative gravity**.
@@ -151,8 +139,6 @@ In a selfdriven architecture these become **ambient functions** of the system.
 They still exist — but they no longer dominate organisational attention.
 
 The centre of gravity shifts from **administration** to **outcomes**.
-
----
 
 ## 6. The New Shape of Business Activity
 
@@ -177,8 +163,6 @@ Agreements execute.
 
 Quietly.
 
----
-
 ## 7. The Psychological Shift
 
 For many people, the quieting of business can feel unsettling.
@@ -194,8 +178,6 @@ In a selfdriven system these signals disappear.
 An organisation may produce enormous value while exhibiting very little visible activity.
 
 Learning to trust **systems over busyness** becomes an important cultural transition.
-
----
 
 ## 8. selfdriven.business
 
@@ -216,8 +198,6 @@ In other words:
 
 > A selfdriven business is one where the system carries the work,  
 > and humans guide the purpose.
-
----
 
 ## 9. Conclusion
 
@@ -242,9 +222,9 @@ The busy-ness has gone.
 But the work — the meaningful work — remains.
 
 ### Resources
+- [The 8 Areas of Focus Framework](https://actuate.selfdriven.community/framework/areas-of-focus)
 - [GitHub Repo](https://github.com/selfdriven-services/selfdriven-business)
-- [os.selfdriven.foundation/](https://https://os.selfdriven.foundation/)
 - [actuate.selfdriven.community](https://actuate.selfdriven.community)
-- [selfdriven.network](https://selfdriven.network)
-- [selfdriven.finance](https://selfdriven.finance)
+- [selfdriven.foundation](https://selfdriven.foundation)
+- [selfdriven.community](https://selfdriven.community)
 
