@@ -1,7 +1,7 @@
 ---
 layout: selfdriven
 title: Helping People Self-Actuate Beyond “Work Busyness” - selfdriven.business
-permalink: /frameworks/the-quiet-life
+permalink: /initiatives/the-quiet-life
 ---
 
 ## The Quiet Life Initiative
