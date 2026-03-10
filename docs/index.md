@@ -223,6 +223,7 @@ The busy-ness has gone.
 But the work — the meaningful work — remains.
 
 ### Resources
+- [The Quiet Life Initiative](/initiatives/the-quiet-life) - helping people self-actuate beyond “work busyness”.
 - [The 8 Areas of Focus Framework](https://actuate.selfdriven.community/framework/areas-of-focus)
 - [actuate.selfdriven.community](https://actuate.selfdriven.community)
 - [selfdriven.ai](https://selfdriven.ai)
