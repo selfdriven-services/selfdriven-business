@@ -223,8 +223,5 @@ But the work — the meaningful work — remains.
 
 ### Resources
 - [The 8 Areas of Focus Framework](https://actuate.selfdriven.community/framework/areas-of-focus)
-- [GitHub Repo](https://github.com/selfdriven-services/selfdriven-business)
 - [actuate.selfdriven.community](https://actuate.selfdriven.community)
-- [selfdriven.foundation](https://selfdriven.foundation)
-- [selfdriven.community](https://selfdriven.community)
-
+- [selfdriven.ai](https://selfdriven.ai)
