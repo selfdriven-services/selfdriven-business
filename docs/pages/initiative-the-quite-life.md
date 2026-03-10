@@ -3,8 +3,8 @@ layout: selfdriven
 title: Helping People Self-Actuate Beyond “Work Busyness” - selfdriven.business
 permalink: /initiatives/the-quiet-life
 ---
-## The Quiet Life Initiative
-### Helping People Self-Actuate Beyond “Work Busyness”
+# The Quiet Life Initiative
+## Helping People Self-Actuate Beyond “Work Busyness”
 
 Artificial intelligence is beginning to eliminate entire categories of work.  
 Unlike previous technological transitions, many AI-driven changes do not simply replace old jobs with new ones — they remove the need for the work entirely.
