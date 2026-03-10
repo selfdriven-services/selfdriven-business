@@ -3,8 +3,7 @@ layout: selfdriven
 title: The busy-ness has gone - selfdriven.business
 ---
 
-# It’s all so quiet
-## — the busy-ness has gone.
+# It’s all so quiet — the busy-ness has gone.
 
 ---
 
