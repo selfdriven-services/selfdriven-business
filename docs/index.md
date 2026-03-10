@@ -227,3 +227,10 @@ But the work — the meaningful work — remains.
 - [The 8 Areas of Focus Framework](https://actuate.selfdriven.community/framework/areas-of-focus)
 - [actuate.selfdriven.community](https://actuate.selfdriven.community)
 - [selfdriven.ai](https://selfdriven.ai)
+
+---
+
+<audio controls="">
+	<source src="/assets/audio/achieving_operational_silence_through_automated_trust.m4a" type="audio/m4a">
+	Your browser does not support the audio element.
+</audio>
