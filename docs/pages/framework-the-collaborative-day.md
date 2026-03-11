@@ -3,15 +3,14 @@ layout: selfdriven
 title:  selfdriven Collaboration Day Framework - selfdriven.business
 permalink: /frameworks/the-collaborative-day
 ---
-# selfdriven Collaboration Day Framework  
+## selfdriven Collaborative Day Framework  
 
 A collaboration-day (traditionally called a workday) can be structured around three shared modes of attention:
-
 - **Curious**
 - **Caring**
 - **Constructive**
 
-Rather than expecting people to operate in the same mental mode all day, the collaboration-day moves through **three collaborative timezones**.
+Rather than expecting people to operate in the same mental mode all day, the collaborative-day moves through **three collaborative timezones**.
 
 This creates a shared rhythm for the group so that everyone understands **what kind of energy the environment is optimised for at each point in the day**.
 
@@ -29,7 +28,7 @@ This creates a natural arc:
 
 **Explore → Align → Build**
 
-## 1. Curious Period
+## Curious Zone
 ### Exploration, questions, discovery
 
 The collaboration-day begins in the **Curious zone**.
@@ -60,7 +59,7 @@ Example timing:
 
 Morning opening session or early-day exploration block.
 
-## 2. Caring Period
+## Caring Zone
 ### Human alignment and coordination
 
 After curiosity comes **Caring**.
@@ -93,7 +92,7 @@ Example timing:
 
 Late morning or mid-day coordination sessions.
 
-## 3. Constructive Period
+## Constructive Zone
 ### Focused building and delivery
 
 The majority of the day is spent in the **Constructive zone**.
