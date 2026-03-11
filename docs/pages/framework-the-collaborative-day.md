@@ -4,11 +4,8 @@ title:  selfdriven Collaboration Day Framework - selfdriven.business
 permalink: /frameworks/the-collaborative-day
 ---
 # selfdriven Collaboration Day Framework  
-### Curious · Caring · Constructive
 
-## Overview
-
-A collaboration-day (often called a workday) can be structured around three shared modes of attention:
+A collaboration-day (traditionally called a workday) can be structured around three shared modes of attention:
 
 - **Curious**
 - **Caring**
@@ -20,7 +17,7 @@ This creates a shared rhythm for the group so that everyone understands **what k
 
 The purpose is to synchronise attention across the community while still allowing individuals to move fluidly between modes when needed.
 
-# Daily Rhythm
+## Daily Zones
 
 A collaboration-day flows through three primary zones:
 
@@ -32,7 +29,7 @@ This creates a natural arc:
 
 **Explore → Align → Build**
 
-# 1. Curious Period
+## 1. Curious Period
 ### Exploration, questions, discovery
 
 The collaboration-day begins in the **Curious zone**.
@@ -63,7 +60,7 @@ Example timing:
 
 Morning opening session or early-day exploration block.
 
-# 2. Caring Period
+## 2. Caring Period
 ### Human alignment and coordination
 
 After curiosity comes **Caring**.
@@ -96,7 +93,7 @@ Example timing:
 
 Late morning or mid-day coordination sessions.
 
-# 3. Constructive Period
+## 3. Constructive Period
 ### Focused building and delivery
 
 The majority of the day is spent in the **Constructive zone**.
@@ -129,7 +126,7 @@ Example timing:
 
 Extended afternoon deep-work blocks.
 
-# Shared Understanding
+## Shared Understanding
 
 The key value of this model is **synchronisation of expectations**.
 
@@ -141,7 +138,7 @@ When everyone understands which zone the collaboration-day is currently in:
 
 This reduces friction inside collaborative environments.
 
-# Cultural Principle
+## Cultural Principle
 
 The collaboration-day supports three behavioural principles:
 
@@ -156,7 +153,7 @@ Build things that make the community stronger.
 
 Together these create a collaborative culture where people are free to think, relate, and build — without those modes competing with each other.
 
-# Example Collaboration-Day Schedule
+## Example Collaboration-Day Schedule
 
 Example structure (adaptable to any organisation):
 
@@ -176,7 +173,7 @@ Deep work and project delivery
 Constructive review / reflection  
 Sharing progress and lessons learned
 
-# Outcome
+## Outcome
 
 A collaboration-day structured around **Curious, Caring, and Constructive** creates a healthier rhythm for communities and teams.
 
@@ -187,3 +184,9 @@ It recognises that meaningful work requires three things:
 - focused creation
 
 When these modes are intentionally sequenced, collaboration becomes calmer, clearer, and more productive.
+
+---
+
+### Related
+
+- [The 8 Areas of Focus Framework](https://actuate.selfdriven.community/framework/areas-of-focus)
