@@ -5,7 +5,7 @@ permalink: /frameworks/the-collaborative-day
 ---
 ## selfdriven Collaborative Day Framework  
 
-A collaboration-day (traditionally called a workday) can be structured around three shared modes of attention zones: **Curious**, **Caring** & **Constructive**.
+A collaborative-day (traditionally called a workday) can be structured around three shared modes of attention zones: **Curious**, **Caring** & **Constructive**.
 
 Rather than expecting people to operate in the same mental mode all day, the collaborative-day moves through three collaborative timed-zones.
 
@@ -15,7 +15,7 @@ The purpose is to synchronise attention across the community while still allowin
 
 ## Daily Zones
 
-A collaboration-day flows through three primary zones:
+A collaborative-day flows through three primary zones:
 
 1. Curious – exploration and learning
 2. Caring – alignment and human connection
@@ -28,7 +28,7 @@ This creates a natural arc:
 ## Curious Zone
 ### Exploration, questions, discovery
 
-The collaboration-day begins in the **Curious zone**.
+The collaborative-day begins in the **Curious zone**.
 
 This period allows participants to open their thinking before moving into execution.  
 It encourages learning, questioning, and the sharing of insights.
@@ -126,7 +126,7 @@ Extended afternoon deep-work blocks.
 
 The key value of this model is **synchronisation of expectations**.
 
-When everyone understands which zone the collaboration-day is currently in:
+When everyone understands which zone the collaborative-day is currently in:
 
 - curiosity is encouraged at the right time
 - care and alignment are protected
@@ -136,7 +136,7 @@ This reduces friction inside collaborative environments.
 
 ## Cultural Principle
 
-The collaboration-day supports three behavioural principles:
+The collaborative-day supports three behavioural principles:
 
 **Be Curious**  
 Explore ideas and ask questions.
@@ -149,7 +149,7 @@ Build things that make the community stronger.
 
 Together these create a collaborative culture where people are free to think, relate, and build — without those modes competing with each other.
 
-## Example Collaboration-Day Schedule
+## Example collaborative-Day Schedule
 
 Example structure (adaptable to any organisation):
 
@@ -171,7 +171,7 @@ Sharing progress and lessons learned
 
 ## Outcome
 
-A collaboration-day structured around **Curious, Caring, and Constructive** creates a healthier rhythm for communities and teams.
+A collaborative-day structured around **Curious, Caring, and Constructive** creates a healthier rhythm for communities and teams.
 
 It recognises that meaningful work requires three things:
 
