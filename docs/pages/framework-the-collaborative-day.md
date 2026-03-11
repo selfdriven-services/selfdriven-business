@@ -100,12 +100,14 @@ Participants focus on producing, building, writing, coding, designing, or delive
 
 Typical activities:
 
-- development work
+- development
+- creation
+- crafting
 - project execution
 - writing or documentation
 - design
-- production work
-- testing and refinement
+- production
+- testing, verfication, reflection
 
 Characteristics:
 
