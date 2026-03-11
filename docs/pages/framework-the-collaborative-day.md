@@ -1,6 +1,6 @@
 ---
 layout: selfdriven
-title:  selfdriven Collaboration Day Framework - selfdriven.business
+title:  selfdriven Collaborative Day Framework - selfdriven.business
 permalink: /frameworks/the-collaborative-day
 ---
 ## selfdriven Collaborative Day Framework  
