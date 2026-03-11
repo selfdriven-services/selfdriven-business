@@ -5,12 +5,9 @@ permalink: /frameworks/the-collaborative-day
 ---
 ## selfdriven Collaborative Day Framework  
 
-A collaboration-day (traditionally called a workday) can be structured around three shared modes of attention:
-- **Curious**
-- **Caring**
-- **Constructive**
+A collaboration-day (traditionally called a workday) can be structured around three shared modes of attention zones: **Curious**, **Caring** & **Constructive**.
 
-Rather than expecting people to operate in the same mental mode all day, the collaborative-day moves through **three collaborative timezones**.
+Rather than expecting people to operate in the same mental mode all day, the collaborative-day moves through three collaborative timed-zones.
 
 This creates a shared rhythm for the group so that everyone understands **what kind of energy the environment is optimised for at each point in the day**.
 
