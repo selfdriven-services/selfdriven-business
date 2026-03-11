@@ -163,13 +163,14 @@ Learning, ideas, research sharing
 Caring zone  
 Check-ins, alignment, coordination
 
-11:00 – 16:00  
+11:00 – 14:00  
 Constructive zone  
 Deep work and project delivery
 
-16:00 – 16:30  
+14:00 – 16:00  
 Constructive review / reflection  
 Sharing progress and lessons learned
+Social
 
 ## Outcome
 
