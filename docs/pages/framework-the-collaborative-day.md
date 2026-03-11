@@ -1,8 +1,8 @@
----
+
 layout: selfdriven
 title:  selfdriven Collaboration Day Framework - selfdriven.business
 permalink: /frameworks/the-collaboration-day
----
+
 # selfdriven Collaboration Day Framework  
 ### Curious · Caring · Constructive
 
@@ -20,8 +20,6 @@ This creates a shared rhythm for the group so that everyone understands **what k
 
 The purpose is to synchronise attention across the community while still allowing individuals to move fluidly between modes when needed.
 
----
-
 # Daily Rhythm
 
 A collaboration-day flows through three primary zones:
@@ -33,8 +31,6 @@ A collaboration-day flows through three primary zones:
 This creates a natural arc:
 
 **Explore → Align → Build**
-
----
 
 # 1. Curious Period
 ### Exploration, questions, discovery
@@ -66,8 +62,6 @@ To expand the group’s understanding and surface opportunities before committin
 Example timing:
 
 Morning opening session or early-day exploration block.
-
----
 
 # 2. Caring Period
 ### Human alignment and coordination
@@ -102,8 +96,6 @@ Example timing:
 
 Late morning or mid-day coordination sessions.
 
----
-
 # 3. Constructive Period
 ### Focused building and delivery
 
@@ -137,8 +129,6 @@ Example timing:
 
 Extended afternoon deep-work blocks.
 
----
-
 # Shared Understanding
 
 The key value of this model is **synchronisation of expectations**.
@@ -150,8 +140,6 @@ When everyone understands which zone the collaboration-day is currently in:
 - deep constructive work is not constantly interrupted
 
 This reduces friction inside collaborative environments.
-
----
 
 # Cultural Principle
 
@@ -167,8 +155,6 @@ Support the people around you.
 Build things that make the community stronger.
 
 Together these create a collaborative culture where people are free to think, relate, and build — without those modes competing with each other.
-
----
 
 # Example Collaboration-Day Schedule
 
@@ -189,8 +175,6 @@ Deep work and project delivery
 16:00 – 16:30  
 Constructive review / reflection  
 Sharing progress and lessons learned
-
----
 
 # Outcome
 
