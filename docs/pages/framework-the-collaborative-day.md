@@ -1,8 +1,8 @@
-
+---
 layout: selfdriven
 title:  selfdriven Collaboration Day Framework - selfdriven.business
-permalink: /frameworks/the-collaboration-day
-
+permalink: /frameworks/the-collaborative-day
+---
 # selfdriven Collaboration Day Framework  
 ### Curious · Caring · Constructive
 
