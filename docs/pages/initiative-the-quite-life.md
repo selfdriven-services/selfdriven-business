@@ -247,3 +247,5 @@ the ability to **self-actuate a meaningful life.**
 ---
 
 *A life designed, not assigned.*
+
+.
