@@ -3,7 +3,7 @@ layout: selfdriven
 title:  selfdriven Collaborative Day Framework - selfdriven.business
 permalink: /frameworks/the-collaborative-day
 ---
-## selfdriven Collaborative Day Framework  
+# selfdriven Collaborative Day Framework  
 
 A collaborative-day (traditionally called a workday) can be structured around three shared modes of attention zones: **Curious**, **Caring** & **Constructive**.
 
