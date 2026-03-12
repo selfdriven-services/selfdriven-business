@@ -226,6 +226,7 @@ But the work — the meaningful work — remains.
 - [The Quiet Life Initiative](/initiatives/the-quiet-life) - helping people self-actuate beyond “work busyness”.
 - [The 8 Areas of Focus Framework](https://actuate.selfdriven.community/framework/areas-of-focus)
 - [The Collaborative Day Framework](/frameworks/the-collaborative-day) - collab synced time-zones.
+- [The Rising Tank](/research/the-rising-tank)
 - [actuate.selfdriven.community](https://actuate.selfdriven.community)
 - [selfdriven.ai](https://selfdriven.ai)
 
